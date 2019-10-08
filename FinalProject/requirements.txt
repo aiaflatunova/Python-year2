@@ -1,0 +1,9 @@
+Flask==0.12.1
+pymorphy2==0.8
+pymystem3==0.1.5
+requests==2.13.0
+PySocks==1.7.1
+gunicorn==19.9.0
+pyTelegramBotAPI==3.6.6
+markovify==0.7.2
+urllib3==1.23

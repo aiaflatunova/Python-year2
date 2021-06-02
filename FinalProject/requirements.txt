@@ -6,4 +6,4 @@ PySocks==1.7.1
 gunicorn==19.9.0
 pyTelegramBotAPI==3.6.6
 markovify==0.7.2
-urllib3==1.23
+urllib3==1.26.5
